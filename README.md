@@ -1,5 +1,5 @@
-# k8s cluster on Vagrant virtual servers on MacOS or Windows10
-
+# 個人のKubernetesの勉強用
+k8s cluster on Vagrant virtual servers on MacOS or Windows10
 
 # Prerequisite
 
